@@ -1,24 +1,20 @@
 ### Hi there 👋
+<p align="center"><img src='https://sistemasoperativos502027821.files.wordpress.com/2018/08/software.gif?w=750&h=350&crop=1' alt='Banner' width=40%></p>
 
 <!--
 **ferchislopez0910/ferchislopez0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center"><img src='https://sistemasoperativos502027821.files.wordpress.com/2018/08/software.gif?w=750&h=350&crop=1' alt='Banner' width=40%></p>
-
-##
-
 🌱 I’m currently learning Full-Stack Web Development
 
-:sparkles: I’m looking for learn
- 
-
-
-:sparkles: Fun fact: 
-I love it the hamburgers and the chocolate.  I am a business administration technologist.
+- :sparkles: I’m looking for learn
+-
+- :sparkles: Fun fact: I love it the :hamburger: and the :chocolate_bar:.  
+- :woman_technologist: I am a business administration technologist.
+- :tulip: Plant Lover
 
 -->💬 Ask me about ...
 
-## Python Lovers
+## Python Lovers :snake:
 
 ### Authors :black_nib:
 * __Maria Fernanda Lopez__
