@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-# I'm Maria Fernanda López A. a student Full Stack Developer :books: from Colombia
+# I'm Maria Fernanda López A. :seedling: a student Full Stack Developer :books: from Colombia
 
-* :seedling: I’m currently learning Full-Stack Web Development
 * :sparkles: I’m looking for learn
 * :sparkles: Fun fact: I love it the :hamburger: and the :chocolate_bar:.  
 * :woman_technologist: I am a business administration technologist.
