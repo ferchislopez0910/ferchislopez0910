@@ -1,4 +1,5 @@
-### Hi there 👋 <img src='https://sistemasoperativos502027821.files.wordpress.com/2018/08/software.gif?w=750&h=350&crop=1' alt='Banner' width=100%>
+### Hi there 👋 
+<img src='https://sistemasoperativos502027821.files.wordpress.com/2018/08/software.gif?w=750&h=350&crop=1' alt='Banner' width=100%>
 
 <!--**ferchislopez0910/ferchislopez0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. >
 <br />
