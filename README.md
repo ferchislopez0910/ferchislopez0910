@@ -3,13 +3,13 @@
 
 <!--
 **ferchislopez0910/ferchislopez0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. >
-<p>
+
 - :seedling: I’m currently learning Full-Stack Web Development
 - :sparkles: I’m looking for learn
 - :sparkles: Fun fact: I love it the :hamburger: and the :chocolate_bar:.  
 - :woman_technologist: I am a business administration technologist.
 - :tulip: Plant Lover
-</p>
+
 
 ## Python Lovers :snake:
 
@@ -19,8 +19,8 @@
 #### Software Academy 💻
 
 <p aling="center">
-<a href="https://www.holbertonschool.com" target="_blank">
-<img src="https://i.pinimg.com/originals/ba/46/c8/ba46c8090ccc536ef26c005f9f2fc404.gif" alt="Twitter"  /></a>
+<a>
+<img src="https://i.pinimg.com/originals/ba/46/c8/ba46c8090ccc536ef26c005f9f2fc404.gif" alt="Twitter" width=10% /></a>
 *:sparkles: Follow me **[Twitter](https://twitter.com/ferchislopez910)** 
 *<p aling="center">
 
